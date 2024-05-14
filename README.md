@@ -8,7 +8,7 @@ I am a Freshman College student eager to advance my skills in Cybersecurity as a
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in building computers, troubleshooting errors, removing viruses and intriged by hacking to the point where I downloaded a whole virtual computer (Kali Linux) to safely browse the darkweb at 11 years olds  has steered me to really get my hands in the field of Cybersecurity and aim for the role of a entry-level Security Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -46,8 +46,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[These are the certificates that I'm currently learning]]
 <div>
+<img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge&logo=google"/>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
