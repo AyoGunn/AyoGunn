@@ -1,17 +1,14 @@
 # Hello, I'm John Gunn
 <a href="https://www.linkedin.com/in/gunn-j/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a Freshman College student eager to advance my skills in Cybersecurity as an Entry-Level Analyst
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in building computers, troubleshooting errors, removing viruses and intriged by hacking to the point where I downloaded a whole virtual computer (Kali Linux) to safely browse the darkweb at 11 years olds  has steered me to really get my hands in the field of Cybersecurity and aim for the role of a entry-level Security Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Skills that I'm acquiring]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +20,7 @@ My journey in building computers, troubleshooting errors, removing viruses and i
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Current Tools Im Learning]]
 
 ### Network
 <div>
@@ -57,5 +54,5 @@ My journey in building computers, troubleshooting errors, removing viruses and i
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/AyoGunn/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
